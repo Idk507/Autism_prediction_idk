@@ -1,0 +1,19 @@
+Question 1: Have difficulties in understanding other people's feelings ever been a concern for you? (Answer: Binary - 0 for No, 1 for Yes)
+
+Question 2: Do you often prefer to stick to your routines and get upset if they are disrupted? (Answer: Binary - 0 for No, 1 for Yes)
+
+Question 3: Are you comfortable with making small talk and initiating conversations with others? (Answer: Binary - 0 for No, 1 for Yes)
+
+Question 4: Do you find it challenging to interpret facial expressions and body language? (Answer: Binary - 0 for No, 1 for Yes)
+
+Question 5: Are you sensitive to certain textures or sounds that others might not notice? (Answer: Binary - 0 for No, 1 for Yes)
+
+Question 6: Have you ever been told that you talk about the same topics excessively? (Answer: Binary - 0 for No, 1 for Yes)
+
+Question 7: Do you struggle to understand sarcasm and jokes that are not literal? (Answer: Binary - 0 for No, 1 for Yes)
+
+Question 8: Do you tend to avoid eye contact when talking to others? (Answer: Binary - 0 for No, 1 for Yes)
+
+Question 9: Are you comfortable in crowded or noisy environments? (Answer: Binary - 0 for No, 1 for Yes)
+
+Question 10: Have you ever been diagnosed with Autism Spectrum Disorder or a related condition? (Answer: Binary - 0 for No, 1 for Yes)
