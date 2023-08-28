@@ -1,8 +1,0 @@
-numpy
-scipy
-matplotlib
-keras
-pandas
-sklearn
-joblib
-
