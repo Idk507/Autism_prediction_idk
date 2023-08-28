@@ -1,0 +1,27 @@
+A1_Score: This column seems to indicate the result of a specific assessment question or test item labeled as "A1." The value of 0 suggests that the individual did not exhibit the behavior associated with this item, which is relevant for predicting ASD.
+
+A2_Score: Similar to A1_Score, this column represents the result of another assessment question or test item, labeled as "A2." A value of 0 indicates the absence of the behavior described by this item.
+
+A3_Score through A10_Score: These columns correspond to the results of various assessment questions or test items labeled as A3 through A10, respectively. Like the previous columns, each of these columns contains a value of 0 if the behavior described by the specific item was not observed.
+
+age: This column likely represents the age of the individual being assessed. Age can be an important factor in predicting ASD, as certain behaviors and traits might manifest differently at different ages.
+
+gender: This column likely indicates the gender of the individual being assessed. Gender might be considered as a potential predictive feature, as some studies have suggested differences in the prevalence and presentation of ASD between genders.
+
+ethnicity: This column probably represents the ethnicity or racial background of the individual. Ethnicity could play a role in autism prediction, as some studies have explored potential connections between certain ethnic backgrounds and ASD prevalence.
+
+jaundice: This column might indicate whether the individual had jaundice as a newborn. Jaundice has been studied as a potential risk factor for ASD, as some research suggests a link between neonatal jaundice and later development of ASD.
+
+austim: This column likely indicates whether the individual has a family history of autism (biological sibling with ASD). Family history of autism is a known risk factor for the disorder.
+
+contry_of_res: This column appears to represent the country of residence of the individual. Geographic location could potentially influence access to diagnostic services, cultural factors, and other variables relevant to autism prediction.
+
+used_app_before: This column might indicate whether the individual has used an autism-related assessment or diagnostic application before. This feature could capture prior engagement with ASD-related resources.
+
+result: This column could contain the overall result or score of the assessment, possibly based on the A1 through A10 scores.
+
+age_desc: This column might provide a description or category for the individual's age. This could be an alternative representation of the "age" column.
+
+relation: This column likely indicates the relationship of the individual being assessed to the person providing the data. Relationship information could be relevant for understanding the context of the assessment.
+
+Class/ASD: This is likely the target column or the label you want to predict. A value of 0 could mean that the individual does not have ASD, while a value of 1 might indicate the presence of ASD.
